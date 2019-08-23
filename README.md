@@ -84,4 +84,4 @@ Succesfully added the Lambda function locally
 ? Do you want to add another path? No
 Successfully added resource todoapi locally
 ```
-Follow do a Search in the `src` and try to find the indications that starts with: "// For persistent approach:"
+At Following do a Search in the `src` directory and try to find the indications that starts with: "// For persistent approach:"
